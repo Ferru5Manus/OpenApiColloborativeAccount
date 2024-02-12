@@ -1,0 +1,6 @@
+@OpenApiColloborativeAccount_HostAddress = http://localhost:5218
+
+GET {{OpenApiColloborativeAccount_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
